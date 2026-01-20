@@ -1,0 +1,92 @@
+Name: [filler]
+
+Desc: [filler]
+
+goodChoice1: [filler1]
+
+goodChoice1wellResponse: [filler1]
+goodChoice1wellAns: [filler1]
+goodChoice1mehResponse: [filler1]
+goodChoice1mehAns: [filler1]
+goodChoice1badResponse: [filler1]
+goodChoice1badAns: [filler1]
+
+goodChoice2: [filler2]
+
+goodChoice2wellResponse: [filler2]
+goodChoice2wellAns: [filler2]
+goodChoice2mehResponse: [filler2]
+goodChoice2mehAns: [filler2]
+goodChoice2badResponse: [filler2]
+goodChoice2badResponse: [filler2]
+
+goodChoice3: [filler3]
+
+goodChoice3wellResponse: [filler3]
+goodChoice3wellAns: [filler3]
+goodChoice3mehResponse: [filler3]
+goodChoice3mehAns: [filler3]
+goodChoice3badResponse: [filler3]
+goodChoice3badAns: [filler3]
+
+midChoice1: [filler4]
+
+midChoice1wellResponse: [filler4]
+midChoice1wellAns: [filler4]
+midChoice1mehResponse: [filler4]
+midChoice1mehAns: [filler4]
+midChoice1badResponse: [filler4]
+midChoice1badAns: [filler4]
+
+midChoice2: [filler5]
+
+midChoice2wellResponse: [filler5]
+midChoice2wellAns: [filler5]
+midChoice2mehResponse: [filler5]
+midChoice2mehAns: [filler5]
+midChoice2badResponse: [filler5]
+midChoice2badAns: [filler5]
+
+midChoice3: [filler6]
+
+midChoice3wellResponse: [filler6]
+midChoice3wellAns: [filler6]
+midChoice3mehResponse: [filler6]
+midChoice3mehAns: [filler6]
+midChoice3badResponse: [filler6]
+midChoice3badAns: [filler6]
+
+badChoice1: [filler7]
+
+badChoice1wellResponse: [filler7]
+badChoice1wellAns: [filler7]
+badChoice1mehResponse: [filler7]
+badChoice1mehAns: [filler7]
+badChoice1badResponse: [filler7]
+badChoice1badAns: [filler7]
+
+badChoice2: [filler8]
+
+badChoice2wellResponse: [filler8]
+badChoice2wellAns: [filler8]
+badChoice2mehResponse: [filler8]
+badChoice2mehAns: [filler8]
+badChoice2badResponse: [filler8]
+badChoice2badAns: [filler8]
+
+badChoice3: [filler8]
+
+badChoice3wellResponse: [filler8]
+badChoice3wellAns: [filler8]
+badChoice3mehResponse: [filler8]
+badChoice3mehAns: [filler8]
+badChoice3badResponse: [filler8]
+badChoice3badAns: [filler8]
+
+bestEnding: [filler]
+
+goodEnding: [filler]
+
+midEnding: [filler]
+
+badEnding: [filler]
