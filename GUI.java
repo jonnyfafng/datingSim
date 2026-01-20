@@ -346,12 +346,21 @@ public class GUI {
     }
     //this makes a button where you make the choices in the scenarios
     private JButton createChoiceButton(String text) {
-        JButton b = new JButton(text);
+        JButton b = new JButton(
+                "<html><body style='width:250px; text-align:left; padding-left:10px;'>"
+                        + text +
+                        "</body></html>"
+        );
+
         b.setFocusPainted(false);
         b.setFont(new Font("Monospaced", Font.BOLD, 14));
         b.setBackground(new Color(40, 40, 40));
         b.setForeground(Color.WHITE);
         b.setBorder(BorderFactory.createLineBorder(Color.WHITE, 2));
+        b.setVerticalAlignment(SwingConstants.TOP);
+
+        b.setPreferredSize(b.getPreferredSize());
+
         return b;
     }
     //this creates the relationship bar
