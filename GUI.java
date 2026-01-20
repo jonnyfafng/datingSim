@@ -377,7 +377,7 @@ public class GUI {
         box.setBounds(0, 20, 900, 200);
 
         textLabel.setBorder(BorderFactory.createEmptyBorder(15, 15, 15, 15));
-        textLabel.setFont(new Font("Monospaced", Font.PLAIN, 16));
+        textLabel.setFont(new Font("Monospaced", Font.PLAIN, 11));
 
         box.add(textLabel, BorderLayout.NORTH);
         box.add(choices, BorderLayout.CENTER);
@@ -397,6 +397,9 @@ public class GUI {
     }
 
     private String formatHtml(String text) {
-        return "<html><body style='color:white; width:600px'>" + text + "</body></html>";
+        return "<html><body style='color:white; width:850px;'>"
+                + text +
+                "</body></html>";
     }
+
 }
